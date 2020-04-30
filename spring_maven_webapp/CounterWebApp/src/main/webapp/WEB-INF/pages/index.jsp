@@ -8,6 +8,6 @@
 <h2>Message : ${message}</h2>
 <h2>Counter : ${counter}</h2>
 
-测试jenkins  2017441498 佘灿晨
+测试jenkins  2017441498 邓青林
 </body>
 </html>
